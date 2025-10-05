@@ -23,6 +23,6 @@ Entity Framework Core
 SQL Server
 
 
-🔗 Demo / Live Preview
+Live Preview: https://www.linkedin.com/in/mohammad-usman-buriro
 
 [Add demo link if available]
