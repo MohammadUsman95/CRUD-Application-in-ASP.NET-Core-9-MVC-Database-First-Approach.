@@ -24,5 +24,3 @@ SQL Server
 
 
 Live Preview: https://www.linkedin.com/in/mohammad-usman-buriro
-
-[Add demo link if available]
